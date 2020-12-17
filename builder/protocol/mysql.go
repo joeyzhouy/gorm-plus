@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"gorm-plus/extension"
-	"gorm-plus/utils"
+	"github.com/joeyzhouy/gorm-plus/extension"
+	"github.com/joeyzhouy/gorm-plus/utils"
 	"strings"
 )
 

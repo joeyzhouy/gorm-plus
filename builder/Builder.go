@@ -2,8 +2,8 @@ package builder
 
 import (
 	"fmt"
-	"gorm-plus/extension"
-	"gorm-plus/utils"
+	"github.com/joeyzhouy/gorm-plus/extension"
+	"github.com/joeyzhouy/gorm-plus/utils"
 	"os"
 	"strings"
 )

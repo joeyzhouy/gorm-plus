@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/joeyzhouy/gorm-plus/builder"
+	_ "github.com/joeyzhouy/gorm-plus/builder/protocol"
+	"github.com/joeyzhouy/gorm-plus/utils"
 	"gopkg.in/alecthomas/kingpin.v2"
-	"gorm-plus/builder"
-	_ "gorm-plus/builder/protocol"
-	"gorm-plus/utils"
 	"os"
 	"strings"
 )

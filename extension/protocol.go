@@ -3,7 +3,7 @@ package extension
 import (
 	"database/sql"
 	"errors"
-	"gorm-plus/utils"
+	"github.com/joeyzhouy/gorm-plus/utils"
 )
 
 type Protocol interface {
